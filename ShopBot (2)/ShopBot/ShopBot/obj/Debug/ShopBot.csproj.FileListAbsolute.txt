@@ -1,0 +1,52 @@
+D:\Учеба\Перлов\ShopBot\ShopBot\bin\Debug\ShopBot.exe.config
+D:\Учеба\Перлов\ShopBot\ShopBot\bin\Debug\ShopBot.exe
+D:\Учеба\Перлов\ShopBot\ShopBot\bin\Debug\ShopBot.pdb
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.csprojAssemblyReference.cache
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Card.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\MainWindow.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\App.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot_MarkupCompile.cache
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot_MarkupCompile.lref
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Card.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\MainWindow.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.g.resources
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.Properties.Resources.resources
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.csproj.GenerateResource.cache
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.exe
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\ShopBot.pdb
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Profiles.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Profiles.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\AddProfile.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\AddProfile.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Tasks.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Tasks.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Setting.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\Setting.baml
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\DashBoard.g.cs
+D:\Учеба\Перлов\ShopBot\ShopBot\obj\Debug\DashBoard.baml
+E:\ShopBot (2)\ShopBot\ShopBot\bin\Debug\ShopBot.exe.config
+E:\ShopBot (2)\ShopBot\ShopBot\bin\Debug\ShopBot.exe
+E:\ShopBot (2)\ShopBot\ShopBot\bin\Debug\ShopBot.pdb
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.csprojAssemblyReference.cache
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\AddProfile.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Card.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\DashBoard.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\MainWindow.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Profiles.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Setting.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Tasks.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\App.g.cs
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot_MarkupCompile.cache
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot_MarkupCompile.lref
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\AddProfile.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Card.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\DashBoard.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\MainWindow.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Profiles.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Setting.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\Tasks.baml
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.g.resources
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.Properties.Resources.resources
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.csproj.GenerateResource.cache
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.exe
+E:\ShopBot (2)\ShopBot\ShopBot\obj\Debug\ShopBot.pdb

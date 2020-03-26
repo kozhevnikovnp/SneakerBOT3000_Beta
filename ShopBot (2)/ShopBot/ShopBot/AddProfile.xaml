@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="ShopBot.AddProfile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ShopBot"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" BorderThickness="2,0,0,0" BorderBrush="#BC4123" Background="#0B172A">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="1" Grid.Column="1" Content="Name" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="2" Grid.Column="1" Content="Surname" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="3" Grid.Column="1" Content="Email" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="4" Grid.Column="1" Content="Phone" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="5" Grid.Column="1" Content="Zip Code" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="6" Grid.Column="1" Content="Country" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="7" Grid.Column="1" Content="State" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="8" Grid.Column="1" Content="City" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="9" Grid.Column="1" Content="Address" Foreground="White" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <TextBox x:Name="TextBox1" Grid.Row="1" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox1_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"/>
+        <TextBox x:Name="TextBox2" Grid.Row="2" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox2_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox3" Grid.Row="3" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox3_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox4" Grid.Row="4" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox4_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox5" Grid.Row="5" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox5_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox6" Grid.Row="6" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox6_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox7" Grid.Row="7" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox7_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox8" Grid.Row="8" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox8_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <TextBox x:Name="TextBox9" Grid.Row="9" Grid.Column="2" BorderThickness="2" BorderBrush="#BC4123" PreviewTextInput="TextBox9_PreviewTextInput"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5 5 70 5" FontSize="16"></TextBox>
+        <Grid Grid.Row="10" Grid.Column="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Go" Grid.Column="1" BorderBrush="#FF035D08" BorderThickness="0,0,0,4" Background="#BC4123" Margin="0 0 5 5" Click="Go_Click" Content="GO"></Button>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Content="Profile" Foreground="White" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Bottom"></Label>
+            <Label Grid.Row="1" Content="Add your profile" Foreground="White" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Stretch" FontStyle="Italic"></Label>
+        </Grid>
+    </Grid>
+</UserControl>
